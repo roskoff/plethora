@@ -118,7 +118,7 @@ blockquote
                 border-bottom: none;
 				padding:0px 12px 3px 12px; height:25px; line-height:30px;margin-left:10px; font-size:14px; font-weight:400; text-decoration:none;display: block;float: left;}
 #navBar .nav a:hover {text-decoration:underline}
-#navBar .nav a.on {height:24px;line-height:28px;border:1px solid #d64000; background:#B02B2C; color:#FFF; font-weight:600; text-decoration:none}
+#navBar .nav a.on {height:24px;line-height:28px;border:1px solid #0040d6; background:#2C2BB0; color:#FFF; font-weight:600; text-decoration:none}
 #navBar .nav a.special {font-size:15px; color:#B02B2C; font-weight:bold; text-decoration:none; }
 #navBar .nav a.special:hover {text-decoration:underline;}
 #navBar .nav div.focus {float:right; padding-right:0px;}
