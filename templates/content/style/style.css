@@ -119,12 +119,12 @@ blockquote
 				padding:0px 12px 3px 12px; height:25px; line-height:30px;margin-left:10px; font-size:14px; font-weight:400; text-decoration:none;display: block;float: left;}
 #navBar .nav a:hover {text-decoration:underline}
 #navBar .nav a.on {height:24px;line-height:28px;border:1px solid #0040d6; background:#2C2BB0; color:#FFF; font-weight:600; text-decoration:none}
-#navBar .nav a.special {font-size:15px; color:#B02B2C; font-weight:bold; text-decoration:none; }
+#navBar .nav a.special {font-size:15px; color:#2C2BB0; font-weight:bold; text-decoration:none; }
 #navBar .nav a.special:hover {text-decoration:underline;}
 #navBar .nav div.focus {float:right; padding-right:0px;}
 /*搜索栏*/
 #searchBar {
-    background-color:#9db2b1;/*#e9b96e;*/
+    background-color:rgb(177, 198, 197);/*#e9b96e;*/
     padding:5px 0 0 0;} /* #B02B2C */
 #searchBar .content { }
 #searchBar .searchInput {font-size:13px; height:18px; width:400px;}
@@ -140,11 +140,11 @@ blockquote
 #listA .qstA {padding:3px 5px 0 5px; margin:0 0px 10px 0px; background:url(/content/images/quest-bg.gif) repeat-x top;}
 #listA .qstA thumb {float:left; }
 #listA .qstA H2 {font-size:15px; font-weight:800; margin:8px auto;padding:0px;}
-#listA .qstA H2 a {color:#663333; }
+#listA .qstA H2 a {color:rgb(51, 51, 102); }
 #listA .qstA .stat {font-size:13px;letter-spacing:1px;float:right;}
 #listA .qstA .stat span {margin-right:5px;}
 #listA .qstA .stat td {min-width:40px;text-align:center;}
-#listA .qstA .stat .num {font-family:arial;color:#905213; font-size:20px; font-weight:800;}
+#listA .qstA .stat .num {font-family:arial;color:rgb(19, 82, 144); font-size:20px; font-weight:800;}
 #listA .qstA .stat .unit {color:#777;}
 #listA .qstA .from {margin-top:5px; font-size:13px;}
 #listA .qstA .from .score {font-family:arial;}
@@ -157,16 +157,16 @@ blockquote
 #listA .qstA .summary{margin-right:5px;}
 
 .evenMore {font-size:14px; font-weight:800;}
-.questions-count{font-size:32px;font-family:sans-serif;font-weight:600;padding:0 0 5px 7px;color:#a40000;}
+.questions-count{font-size:32px;font-family:sans-serif;font-weight:600;padding:0 0 5px 7px;color:rgb(0, 0, 164);}
 
 /*内容块*/
-.boxA {background:#777; padding:6px; margin-bottom:8px;}
+.boxA {background:rgb(80, 80, 240); padding:6px; margin-bottom:8px;}
 .boxA H3 {font-size:13px; font-weight:800; color:#FFF; margin:0; padding:0; margin-bottom:4px;}
 .boxA .body {border:1px solid #999; padding:8px; background:#FFF; font-size:13px;}
 .boxA .more {padding:2px; text-align:right; font-weight:800;}
-.boxB {background:#F9F7CD; padding:6px; margin-bottom:8px;}
+.boxB {background:rgb(200, 210, 250); padding:6px; margin-bottom:8px;}
 .boxB H3 {font-size:13px; font-weight:800; color:#000; margin:0; padding:0 0 0 15px; margin-bottom:4px; background:url(/content/images/dot-g.gif) no-repeat left center;}
-.boxB .body {border:1px solid #FFFF88; padding:8px; background:#FFF; font-size:13px; line-height:160%;}
+.boxB .body {border:1px solid rgb(136, 200, 255); padding:8px; background:#FFF; font-size:13px; line-height:160%;}
 .boxB .more {padding:1px; text-align:right; font-weight:800;}
 .boxC {background:#F5F5F5; padding:6px; margin-bottom:8px;}
 /*分页*/
