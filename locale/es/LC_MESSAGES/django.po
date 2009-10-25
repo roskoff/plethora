@@ -1052,7 +1052,7 @@ msgstr "¿Qué debo evitar en mis solicitudes?"
 
 #: templates/faq.html:28 templates/faq.html.py:132
 msgid "site title"
-msgstr "título del sitio"
+msgstr "Plethora.com"
 
 #: templates/faq.html:28
 msgid ""
@@ -1348,7 +1348,7 @@ msgstr "Distinciones recientes"
 
 #: templates/index.html:107
 msgid "given to"
-msgstr "dados a"
+msgstr "dadas a"
 
 #: templates/index.html:112
 msgid "all awards"
@@ -1376,7 +1376,7 @@ msgstr "Ayudanos a responder"
 
 #: templates/index.html:121
 msgid "list of unanswered questions"
-msgstr "lista de preguntas sin respuesta"
+msgstr "lista de solicitudes sin respuesta"
 
 #: templates/logout.html:6 templates/logout.html.py:17
 msgid "Logout"
@@ -1404,7 +1404,7 @@ msgstr "previo"
 
 #: templates/paginator.html:19
 msgid "current page"
-msgstr "página actúal"
+msgstr "página actual"
 
 #: templates/paginator.html:22 templates/paginator.html.py:29
 msgid "page number "
@@ -1420,7 +1420,7 @@ msgstr "próxima página"
 
 #: templates/privacy.html:6 templates/privacy.html.py:11
 msgid "Privacy policy"
-msgstr "Código de Privacidad"
+msgstr "Política de Privacidad"
 
 #: templates/privacy.html:15
 msgid "general message about privacy"
@@ -1444,7 +1444,7 @@ msgstr "describir código de manejo de la información personal"
 
 #: templates/privacy.html:28
 msgid "Other Services"
-msgstr "Otros servicios"
+msgstr "Otros Servicios"
 
 #: templates/privacy.html:30
 msgid "details on sharing data with third parties"
@@ -1456,7 +1456,7 @@ msgstr "uso de cookies"
 
 #: templates/privacy.html:37
 msgid "Policy Changes"
-msgstr "Cambios de Códigos"
+msgstr "Cambios de Politica"
 
 #: templates/privacy.html:38
 msgid "how privacy policies can be changed"
@@ -1464,7 +1464,7 @@ msgstr "como pueden ser cambiados los códigos de privacidad"
 
 #: templates/question.html:69 templates/question.html.py:81
 msgid "i like this post (click again to cancel)"
-msgstr "Me gusta esta entrada (clickear devuelta para cancelar)"
+msgstr "Me gusta esta entrada (clickear de vuelta para cancelar)"
 
 #: templates/question.html:71 templates/question.html.py:83
 #: templates/question.html:276
@@ -1473,16 +1473,16 @@ msgstr "número actual de votos"
 
 #: templates/question.html:76 templates/question.html.py:87
 msgid "i dont like this post (click again to cancel)"
-msgstr "No me gusta esta entrada (clickear devuelta para cancelar)"
+msgstr "No me gusta esta entrada (clickear de vuelta para cancelar)"
 
 #: templates/question.html:93
 msgid "mark this question as favorite (click again to cancel)"
-msgstr "marcar esta pregunta como favorita (clickear devuelta para cancelar)"
+msgstr "marcar esta pregunta como favorita (clickear de vuelta para cancelar)"
 
 #: templates/question.html:99
 msgid "remove favorite mark from this question (click again to restore mark)"
 msgstr ""
-"remover marca de favorito a esta pregunta (clickear devuelta para volver a "
+"remover marca de favorito a esta pregunta (clickear de vuelta para volver a "
 "marcar)"
 
 #: templates/question.html:124 templates/question.html.py:307
@@ -1520,7 +1520,7 @@ msgstr "actualizado"
 #: templates/question.html:206 templates/question.html.py:387
 #: templates/revisions_answer.html:63 templates/revisions_question.html:63
 msgid "asked"
-msgstr "preguntado"
+msgstr "solicitado"
 
 #: templates/question.html:236 templates/question.html.py:414
 msgid "comments"
@@ -1542,7 +1542,7 @@ msgstr ""
 #: templates/question.html:252
 #, python-format
 msgid "close date %(question.closed_at)s"
-msgstr "fecha de cerrada %(question.closed_at)s"
+msgstr "cerrada en fecha %(question.closed_at)s"
 
 #: templates/question.html:259 templates/user_stats.html:28
 msgid "Answers"
@@ -1550,7 +1550,7 @@ msgstr "Respuestas"
 
 #: templates/question.html:261
 msgid "oldest answers will be shown first"
-msgstr "la respuesta mas vieja será mostrada primero"
+msgstr "respuesta más vieja será mostrada primero"
 
 #: templates/question.html:261
 msgid "oldest answers"
@@ -1566,27 +1566,27 @@ msgstr "más nuevas"
 
 #: templates/question.html:263
 msgid "most voted answers will be shown first"
-msgstr "las preguntas más votadas serán mostradas primero"
+msgstr "las respuestas más votadas serán mostradas primero"
 
 #: templates/question.html:263
 msgid "popular answers"
-msgstr "respuestas populares serán mostradas primero"
+msgstr "respuestas populares"
 
 #: templates/question.html:275
 msgid "i like this answer (click again to cancel)"
-msgstr "me gusta esta respuesta (clickear devuelta para cancelar)"
+msgstr "Me gusta esta respuesta (clickear de vuelta para cancelar)"
 
 #: templates/question.html:281
 msgid "i dont like this answer (click again to cancel)"
-msgstr "no me gusta esta respuesta (clickear devuelta para cancelar)"
+msgstr "No me gusta esta respuesta (clickear de vuelta para cancelar)"
 
 #: templates/question.html:287
 msgid "mark this answer as favorite (click again to undo)"
-msgstr "marcar esta respuesta como favorita (clickear devuelta para deshacer)"
+msgstr "Marcar esta respuesta como favorita (clickear de vuelta para deshacer)"
 
 #: templates/question.html:292
 msgid "the author of the question has selected this answer as correct"
-msgstr "el autor de esta pregunta ha seleccionado esta respuesta como correcta"
+msgstr "El autor de esta pregunta ha seleccionado esta respuesta como correcta"
 
 #: templates/question.html:314
 msgid "undelete"
@@ -1606,7 +1606,7 @@ msgstr "Tu respuesta"
 
 #: templates/question.html:441
 msgid "you can answer anonymously and then login"
-msgstr ""
+msgstr "Puedes responder anónimamente y luego ingresar"
 
 #: templates/question.html:465
 msgid "Answer the question"
@@ -1614,11 +1614,11 @@ msgstr "Responde la pregunta"
 
 #: templates/question.html:467
 msgid "Notify me daily if there are any new answers."
-msgstr ""
+msgstr "Notificarme diariamente si hay alguna respuesta nueva."
 
 #: templates/question.html:469
 msgid "once you sign in you will be able to subscribe for any updates here"
-msgstr ""
+msgstr "una vez que ingreses podrás suscribirte a cualquier actualización aquí"
 
 #: templates/question.html:481
 msgid "Question tags"
@@ -1626,7 +1626,7 @@ msgstr "Etiquetas de la pregunta"
 
 #: templates/question.html:491
 msgid "question asked"
-msgstr "pregunta preguntada"
+msgstr "solicitud hecha hace"
 
 #: templates/question.html:491 templates/question.html.py:497
 #: templates/user_info.html:51
@@ -1651,11 +1651,11 @@ msgstr "Preguntas relacionadas"
 
 #: templates/question_edit.html:4 templates/question_edit.html.py:65
 msgid "Edit question"
-msgstr "Editar pregunta"
+msgstr "Editar solicitud"
 
 #: templates/question_edit_tips.html:4
 msgid "question tips"
-msgstr "Sugerencias sobre pregunta"
+msgstr "Sugerencias sobre solicitud"
 
 #: templates/question_edit_tips.html:7
 msgid "please ask a relevant question"
@@ -1679,12 +1679,12 @@ msgstr "¿Porqué usar y modificar etiquetas?"
 
 #: templates/question_retag.html:89
 msgid "tags help us keep Questions organized"
-msgstr ""
+msgstr "las etiquetas ayudan a mantener organizadas las solicitudes"
 
 #: templates/question_retag.html:95
 msgid "tag editors receive special awards from the community"
 msgstr ""
-"los editores de etiquetas reciben distinciones especiales de la comunidad"
+"los que editan etiquetas reciben distinciones especiales de la comunidad"
 
 #: templates/questions.html:23
 msgid "Found by tags"
@@ -1700,15 +1700,15 @@ msgstr "Todas las preguntas"
 
 #: templates/questions.html:25 templates/unanswered.html:20
 msgid "most recently asked questions"
-msgstr "preguntas hechas más recientemente"
+msgstr "solicitudes hechas más recientemente"
 
 #: templates/questions.html:26
 msgid "most recently updated questions"
-msgstr "preguntas actualizadas más recientemente"
+msgstr "solicitudes actualizadas más recientemente"
 
 #: templates/questions.html:26
 msgid "active"
-msgstr "actividad"
+msgstr "activas"
 
 #: templates/questions.html:109
 #, python-format
@@ -1721,10 +1721,10 @@ msgid_plural ""
 "\t\t\thave total %(q_num)s questions tagged %(tagname)s\n"
 "\t\t\t"
 msgstr[0] "\n" 
-"\t\t\ttiene un total de %(q_num)s preguntas etiquetadas con %(tagname)s\n"
+"\t\t\ttiene un total de %(q_num)s solicitudes etiquetadas con %(tagname)s\n"
 "\t\t\t"
 msgstr[1] "\n"
-"\t\t\ttiene un total de %(q_num)s preguntas etiquetadas con %(tagname)s\n"
+"\t\t\ttiene un total de %(q_num)s solicitudes etiquetadas con %(tagname)s\n"
 "\t\t\t"
 
 #: templates/questions.html:116
@@ -1739,11 +1739,11 @@ msgid_plural ""
 "\t\t\t\t"
 msgstr[0] ""
 "\n"
-"\t\t\thay un total de %(q_num)s preguntas que contienen %(searchtitle)s\n"
+"\t\t\thay un total de %(q_num)s solicitudes que contienen %(searchtitle)s\n"
 "\t\t\t"
 msgstr[1] ""
 "\n"
-"\t\t\thay un total de %(q_num)s pregunta que contiene %(searchtitle)s\n"
+"\t\t\thay un total de %(q_num)s solicitudes que contiene %(searchtitle)s\n"
 "\t\t\t"
 
 #: templates/questions.html:122
@@ -1756,17 +1756,17 @@ msgid_plural ""
 "\n"
 "\t\t\t\thave total %(q_num)s questions\n"
 "\t\t\t\t"
-msgstr[0] "ver preguntas etiquetadas '%(tagname)s'"
-msgstr[1] "ver pregunta etiquetada '%(tagname)s'"
+msgstr[0] "ver solicitudes etiquetadas '%(tagname)s'"
+msgstr[1] "ver solicitudes etiquetada '%(tagname)s'"
 
 #: templates/questions.html:131
 msgid "latest questions info"
-msgstr "<strong>Más recientes</strong> preguntas son mostradas primero."
+msgstr "info <strong>solicitudes recientes</strong>"
 
 #: templates/questions.html:135
 msgid "Questions are sorted by the <strong>time of last update</strong>."
 msgstr ""
-"Las preguntas estan ordenadas por <strong>fecha de último update</strong>."
+"Las solicitudes estan ordenadas por <strong>fecha de última actualización</strong>."
 
 #: templates/questions.html:136
 msgid "Most recently answered ones are shown first."
@@ -1774,19 +1774,19 @@ msgstr "Las más recientemente respondidas son mostradas primero."
 
 #: templates/questions.html:140
 msgid "Questions sorted by <strong>number of responses</strong>."
-msgstr "Preguntas ordenadas por <strong>número de respuestas</strong>."
+msgstr "Solicitudes ordenadas por <strong>número de respuestas</strong>."
 
 #: templates/questions.html:141
 msgid "Most answered questions are shown first."
-msgstr "Preguntas más respondidas aparecen primero."
+msgstr "Solicitudes más respondidas aparecen primero."
 
 #: templates/questions.html:145
 msgid "Questions are sorted by the <strong>number of votes</strong>."
-msgstr "Las preguntas son ordenadas por el <strong>número de votos</strong>."
+msgstr "Las solicitudes son ordenadas por el <strong>número de votos</strong>."
 
 #: templates/questions.html:146
 msgid "Most voted questions are shown first."
-msgstr "Las preguntas más votadas son mostradas primero."
+msgstr "Las solicitudes más votadas son mostradas primero."
 
 #: templates/questions.html:153 templates/unanswered.html:105
 msgid "Related tags"
@@ -1794,15 +1794,15 @@ msgstr "Etiquetas relacionadas"
 
 #: templates/reopen.html:6 templates/reopen.html.py:16
 msgid "Reopen question"
-msgstr "Re-abrir pregunta"
+msgstr "Re-abrir solicitud"
 
 #: templates/reopen.html:19
 msgid "Open the previously closed question"
-msgstr "Abrir pregunta previamente cerrada"
+msgstr "Abrir solicitud previamente cerrada"
 
 #: templates/reopen.html:22
 msgid "The question was closed for the following reason "
-msgstr "La pregunta fue cerrada por el siguiente motivo "
+msgstr "La solicitud fue cerrada por el siguiente motivo "
 
 #: templates/reopen.html:22
 msgid "reason - leave blank in english"
@@ -1818,7 +1818,7 @@ msgstr "fecha cerrada"
 
 #: templates/reopen.html:29
 msgid "Reopen this question"
-msgstr "Re-abrir esta pregunta"
+msgstr "Re-abrir esta solicitud"
 
 #: templates/revisions_answer.html:7 templates/revisions_answer.html.py:36
 #: templates/revisions_question.html:8 templates/revisions_question.html:36
@@ -1847,11 +1847,11 @@ msgstr "por popularidad"
 
 #: templates/tags.html:38
 msgid "All tags matching query"
-msgstr "Todas las etiquetas que coincidan con la busqueda"
+msgstr "Todas las etiquetas que coincidan con la búsqueda"
 
 #: templates/tags.html:38
 msgid "all tags - make this empty in english"
-msgstr "todas las tags"
+msgstr "todas las etiquetas"
 
 #: templates/tags.html:41
 msgid "Nothing found"
@@ -1859,7 +1859,7 @@ msgstr "Nada encontrado"
 
 #: templates/unanswered.html:7 templates/unanswered.html.py:18
 msgid "Unanswered questions"
-msgstr "Preguntas sin respuesta"
+msgstr "Solicitudes sin respuesta"
 
 #: templates/unanswered.html:97
 #, python-format
@@ -1898,7 +1898,7 @@ msgstr "Actualización"
 
 #: templates/user_info.html:34
 msgid "update profile"
-msgstr ""
+msgstr "actualizar perfil"
 
 #: templates/user_info.html:40
 msgid "real name"
@@ -1906,11 +1906,11 @@ msgstr "nombre real"
 
 #: templates/user_info.html:45
 msgid "member for"
-msgstr "miembro de"
+msgstr "miembro "
 
 #: templates/user_info.html:50
 msgid "last seen"
-msgstr "última vez visto"
+msgstr "visto por última vez"
 
 #: templates/user_info.html:56
 msgid "user website"
@@ -1938,7 +1938,7 @@ msgstr "votos restantes"
 
 #: templates/user_preferences.html:10
 msgid "Connect with Twitter"
-msgstr ""
+msgstr "Conectar con Twitter"
 
 #: templates/user_preferences.html:12
 msgid "Twitter account name:"
@@ -1950,7 +1950,7 @@ msgstr "Contraseña de Twitter:"
 
 #: templates/user_preferences.html:16
 msgid "Send my Questions to Twitter"
-msgstr "Enviar mis preguntas a Twitter"
+msgstr "Enviar mis solicitudes a Twitter"
 
 #: templates/user_preferences.html:17
 msgid "Send my Answers to Twitter"
@@ -1962,7 +1962,7 @@ msgstr "Guardar"
 
 #: templates/user_stats.html:15
 msgid "User questions"
-msgstr "Preguntas del usuario"
+msgstr "Solicitudes del usuario"
 
 #: templates/user_stats.html:37
 #, python-format
@@ -1989,7 +1989,7 @@ msgstr "el usuario ha votado positivo esta cantidad de veces"
 
 #: templates/user_stats.html:70
 msgid "user voted down this many times"
-msgstr "el usuario voto negativo esta cantidad de veces"
+msgstr "el usuario ha votado negativo esta cantidad de veces"
 
 #: templates/user_stats.html:84
 msgid "Tags"
@@ -1998,7 +1998,7 @@ msgstr "Etiquetas"
 #: templates/user_stats.html:94
 #, python-format
 msgid "see other questions tagged '%(tag)s' "
-msgstr "ver otras preguntas etiqueteadas '%(tag)s'"
+msgstr "ver otras solicitudes etiqueteadas '%(tag)s'"
 
 #: templates/user_tabs.html:7
 msgid "User profile"
@@ -2010,7 +2010,7 @@ msgstr "gráfica de la reputación del usuario"
 
 #: templates/user_tabs.html:17
 msgid "reputation history"
-msgstr "historial de reputación"
+msgstr "reputación"
 
 #: templates/user_tabs.html:24
 msgid "favorites"
@@ -2047,7 +2047,7 @@ msgstr "Nada encontrado."
 
 #: templates/users_questions.html:11
 msgid "this questions was selected as favorite"
-msgstr "esta pregunta ha sido seleccionada como favorita"
+msgstr "esta solicitud ha sido seleccionada como favorita"
 
 #: templates/users_questions.html:33
 msgid "this answer has been accepted to be correct"
@@ -2056,7 +2056,7 @@ msgstr "esta respuesta ha sido aceptada como correcta"
 #: templates/authopenid/changeemail.html:7
 #: templates/authopenid/changeemail.html:33
 msgid "Change email"
-msgstr "Cambiar dirección email"
+msgstr "Cambiar email"
 
 #: templates/authopenid/changeemail.html:10
 #, fuzzy, python-format
@@ -2068,11 +2068,11 @@ msgstr "Cambiar información del correo electrónico "
 #: templates/authopenid/changepw.html:19 templates/authopenid/delete.html:15
 #: templates/authopenid/delete.html:25
 msgid "Please correct errors below:"
-msgstr "Por favor corrija los errores debajo: "
+msgstr "Por favor corrije los errores debajo: "
 
 #: templates/authopenid/changeemail.html:30
 msgid "Your new Email"
-msgstr ""
+msgstr "Tu nuevo email"
 
 #: templates/authopenid/changeemail.html:31
 #: templates/authopenid/signin.html:138
@@ -2082,21 +2082,21 @@ msgstr "Contraseña"
 #: templates/authopenid/changeemail.html:42
 #, fuzzy
 msgid "Validate email"
-msgstr "Cambiar dirección email"
+msgstr "Validar dirección email"
 
 #: templates/authopenid/changeemail.html:45
 #, python-format
 msgid "validate %(email)s info"
-msgstr ""
+msgstr "validar info de %(email)s"
 
 #: templates/authopenid/changeemail.html:50
 msgid "Email not changed"
-msgstr "Email no modificado."
+msgstr "Email no modificado"
 
 #: templates/authopenid/changeemail.html:53
 #, python-format
 msgid "old %(email)s kept"
-msgstr ""
+msgstr "se mantiene %(email)s anterior"
 
 #: templates/authopenid/changeemail.html:58
 msgid "Email changed"
@@ -2105,7 +2105,7 @@ msgstr "Email modificado."
 #: templates/authopenid/changeemail.html:61
 #, python-format
 msgid "your current %(email)s can be used for this"
-msgstr ""
+msgstr "tu %(email)s actual puede ser usado para esto"
 
 #: templates/authopenid/changeemail.html:66
 msgid "Email verified"
@@ -2113,16 +2113,16 @@ msgstr "Email verificado"
 
 #: templates/authopenid/changeemail.html:69
 msgid "thanks for verifying email"
-msgstr "gracias por verificar su correo"
+msgstr "gracias por verificar tu correo"
 
 #: templates/authopenid/changeemail.html:74
 msgid "email key not sent"
-msgstr "llave de correo no enviada"
+msgstr "clave de correo no enviada"
 
 #: templates/authopenid/changeemail.html:77
 #, python-format
 msgid "email key not sent %(email)s change email here %(change_link)s"
-msgstr ""
+msgstr "clave de correo no enviada %(email)s cambia tu email aqui %(change_link)s"
 
 #: templates/authopenid/changeopenid.html:8
 msgid "Account: change OpenID URL"
@@ -2131,7 +2131,7 @@ msgstr "Cuenta: cambiar la URL de OpenID"
 #: templates/authopenid/changeopenid.html:12
 msgid ""
 "This is where you can change your OpenID URL. Make sure you remember it!"
-msgstr "Aquí es donde puedes cambiar tu OpenID URL. Asegurate de recordarla!"
+msgstr "Aquí es donde puedes cambiar el URL de tu OpenID. Asegurate de recordarlo!"
 
 #: templates/authopenid/changeopenid.html:29
 msgid "OpenID URL:"
@@ -2147,7 +2147,7 @@ msgstr "Cuenta: cambiar contraseña"
 
 #: templates/authopenid/changepw.html:17
 msgid "This is where you can change your password. Make sure you remember it!"
-msgstr "Aquí es donde puedes cambiar tu contraseña. Asegurate de recordarlo!"
+msgstr "Aquí es donde puedes cambiar tu contraseña. Asegurate de recordarla!"
 
 #: templates/authopenid/changepw.html:27
 msgid "Current password"
@@ -2159,7 +2159,7 @@ msgstr "Nueva contraseña"
 
 #: templates/authopenid/changepw.html:29
 msgid "New password again"
-msgstr "Nueva contraseña nuevamente"
+msgstr "Nueva contraseña (otra vez)"
 
 #: templates/authopenid/changepw.html:30 templates/authopenid/settings.html:29
 msgid "Change password"
@@ -2176,11 +2176,11 @@ msgstr "Vincular tu OpenID con tu cuenta en este sitio"
 #: templates/authopenid/complete.html:12
 #, python-format
 msgid "register new %(provider)s account info"
-msgstr ""
+msgstr "registrar nueva info sobre cuenta de %(provider)s"
 
 #: templates/authopenid/complete.html:14
 msgid "This account already exists, please use another."
-msgstr "Esta cuenta ya existe, por favor usar otra."
+msgstr "Esta cuenta ya existe, por favor usa otra."
 
 #: templates/authopenid/complete.html:19 templates/authopenid/complete.html:32
 #: templates/authopenid/signin.html:121
@@ -2189,7 +2189,7 @@ msgstr "Ups, parece que hay errores:"
 
 #: templates/authopenid/complete.html:47
 msgid "Screen name label"
-msgstr ""
+msgstr "Nombre a desplegar"
 
 #: templates/authopenid/complete.html:48
 msgid "Email address label"
@@ -2221,25 +2221,25 @@ msgstr "¿Olvidaste tu contraseña?"
 
 #: templates/authopenid/confirm_email.txt:2
 msgid "Thank you for registering at our Q&A forum!"
-msgstr ""
+msgstr "Gracias por registrarte en Plethora.com!"
 
 #: templates/authopenid/confirm_email.txt:4
 msgid "Your account details are:"
-msgstr "Los detalles de su cuenta son:"
+msgstr "Los detalles de tu cuenta son:"
 
 #: templates/authopenid/confirm_email.txt:6
 #: templates/authopenid/sendpw_email.txt:7
 msgid "Username:"
-msgstr "Nombre de usuario"
+msgstr "Nombre de usuario:"
 
 #: templates/authopenid/confirm_email.txt:7
 #: templates/authopenid/delete.html:20
 msgid "Password:"
-msgstr "Contraseña"
+msgstr "Contraseña:"
 
 #: templates/authopenid/confirm_email.txt:9
 msgid "Please sign in here:"
-msgstr "Por favor inicie sesión aquí:"
+msgstr "Por favor inicia sesión aquí:"
 
 #: templates/authopenid/confirm_email.txt:12
 #: templates/authopenid/email_validation.txt:14
@@ -2247,7 +2247,8 @@ msgstr "Por favor inicie sesión aquí:"
 msgid ""
 "Sincerely,\n"
 "Forum Administrator"
-msgstr ""
+msgstr "Saludos,\n"
+"Administrador de Plethora.com"
 
 #: templates/authopenid/delete.html:9
 msgid "Account: delete account"
@@ -2267,7 +2268,7 @@ msgstr "Marca caja de confirmación, si deseas borrar tu cuenta."
 
 #: templates/authopenid/delete.html:32
 msgid "I am sure I want to delete my account."
-msgstr "Estoy seguro que quiero borrar mi cuenta."
+msgstr "Estoy seguro de que quiero borrar mi cuenta."
 
 #: templates/authopenid/delete.html:33
 msgid "Password/OpenID URL"
@@ -2283,22 +2284,24 @@ msgstr "Borrar la cuenta de forma permanente"
 
 #: templates/authopenid/email_validation.txt:2
 msgid "Greetings from the Q&A forum"
-msgstr ""
+msgstr "Plethora.com te saluda!"
 
 #: templates/authopenid/email_validation.txt:4
 msgid "To make use of the Forum, please follow the link below:"
-msgstr "Para usar el Foro, siga el siguiente enlace:"
+msgstr "Para usar los servicios de esta comunidad, sigue el siguiente enlace:"
 
 #: templates/authopenid/email_validation.txt:8
 msgid "Following the link above will help us verify your email address."
-msgstr "El siguiente enlace nos ayudará a verificar su correo electrónico."
+msgstr "El siguiente enlace nos ayudará a verificar tu correo electrónico."
 
 #: templates/authopenid/email_validation.txt:10
 msgid ""
 "If you beleive that this message was sent in mistake - \n"
 "no further action is needed. Just ingore this email, we apologize\n"
 "for any inconvenience"
-msgstr ""
+msgstr "Si crees que este mensaje ha sido enviado por error, \n"
+"no hace falta que hagas nada, basta con que ignores este email. Pedimos disculpas\n"
+"por cualquier inconveniente causado."
 
 #: templates/authopenid/sendpw.html:4 templates/authopenid/sendpw.html.py:8
 msgid "Send new password"
@@ -2306,7 +2309,7 @@ msgstr "Enviar nueva contraseña"
 
 #: templates/authopenid/sendpw.html:12
 msgid "Lost your password? No problem - here you can reset it."
-msgstr "¿Haz perdido tu contraseña? No hay problema - aquí puedes re-crearla."
+msgstr "¿Haz perdido tu contraseña? No hay problema - aquí puedes resetearla."
 
 #: templates/authopenid/sendpw.html:13
 msgid ""
@@ -2322,7 +2325,7 @@ msgstr "Nombre de usuario"
 
 #: templates/authopenid/sendpw.html:30
 msgid "Reset password"
-msgstr "Re-crear contraseña"
+msgstr "Resetear contraseña"
 
 #: templates/authopenid/sendpw.html:30
 msgid "return to login"
@@ -2341,19 +2344,20 @@ msgstr ""
 msgid ""
 "Someone has requested to reset your password on %(site_url)s.\n"
 "If it were not you, it is safe to ignore this email."
-msgstr ""
+msgstr "Alguien ha solicitado resetear tu cuenta en %(site_url)s.\n"
+"Si no fuiste tu, tranquil@, puedes ingnorar este email :)"
 
 #: templates/authopenid/sendpw_email.txt:5
 msgid "Your new account details are:"
-msgstr ""
+msgstr "Los detalles de tu nueva cuenta son:"
 
 #: templates/authopenid/sendpw_email.txt:8
 msgid "New password:"
-msgstr "Nueva contraseña"
+msgstr "Nueva contraseña:"
 
 #: templates/authopenid/sendpw_email.txt:10
 msgid "To confirm that you wanted to reset your password please visit:"
-msgstr ""
+msgstr "Para confirmar que quieres resetear tu contraseña, por favor visita:"
 
 #: templates/authopenid/settings.html:30
 msgid "Give your  account a new password."
@@ -2390,7 +2394,7 @@ msgid ""
 "                Your answer to %(title)s %(summary)s will be posted once you "
 "log in\n"
 "                "
-msgstr ""
+msgstr "Tu respuesta a %(title)s %(summary)s será posteada una vez que inicies sesión"
 
 #: templates/authopenid/signin.html:35
 #, python-format
@@ -2398,21 +2402,22 @@ msgid ""
 "Your question \n"
 "                %(title)s %(summary)s will be posted once you log in\n"
 "                "
-msgstr ""
+msgstr "Tu solicitud %(title)s %(summary)s será posteada una vez que inicies sesión"
 
 #: templates/authopenid/signin.html:40
 msgid "Click to sign in through any of these services."
-msgstr ""
+msgstr "Clickea para iniciar sesión por medio de alguno de estos servicios."
 
 #: templates/authopenid/signin.html:103
 msgid "Enter your <span id=\"enter_your_what\">Provider user name</span>"
-msgstr ""
+msgstr "Ingresa el <span id=\"enter_your_what\">nombre de usuario de tu Proveedor</span>"
 
 #: templates/authopenid/signin.html:110
 msgid ""
 "Enter your <a class=\"openid_logo\" href=\"http://openid.net\">OpenID</a> "
 "web address"
 msgstr ""
+"Ingresa tu dirección <a class=\"openid_logo\" href=\"http://openid.net\">OpenID</a> "
 
 #: templates/authopenid/signin.html:112 templates/authopenid/signin.html:139
 msgid "Login"
@@ -2447,14 +2452,14 @@ msgstr "Con OpenID no necesitas crear un nuevo nombre de usuario y contraseña."
 #: templates/authopenid/signin.html:157
 msgid "reuse openid"
 msgstr ""
-"Puedes de forma segura re-usar el mismo nombre de usuario para todos los "
+"De una manera segura, puedes re-usar el mismo nombre de usuario para todos los "
 "sitios que acepten OpenID."
 
 #: templates/authopenid/signin.html:160
 msgid "openid is widely adopted"
 msgstr ""
 "OpenID es extensamente usado. Hay más de 160,000,000 cuentas de OpenID en "
-"uso en el mundo. Mas de 10,000 sitios aceptan OpenID."
+"uso en el mundo. Más de 10,000 sitios aceptan OpenID."
 
 #: templates/authopenid/signin.html:163
 msgid "openid is supported open standard"
@@ -2471,7 +2476,7 @@ msgstr "Adquiere una OpenID"
 
 #: templates/authopenid/signup.html:4 templates/authopenid/signup.html.py:8
 msgid "Signup"
-msgstr "Registrate"
+msgstr "Regístrate"
 
 #: templates/authopenid/signup.html:12
 msgid ""
@@ -2503,7 +2508,7 @@ msgstr "volver al ingreso de usuario"
 
 #: templates/authopenid/signup.html:48
 msgid "Register with your OpenID"
-msgstr "Registrate con tu OpenID"
+msgstr "Regístrate con tu OpenID"
 
 #: templates/authopenid/signup.html:51
 msgid "Login with your OpenID"
