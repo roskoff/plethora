@@ -78,7 +78,7 @@ var i18nEs = {
 	'post recovered':'se restauró el post',
 	'post deleted':'se borró el post',
 	'add comment':'agregar comentario',
-	'community reputation points':'puntos de reputación',
+	'community reputation points':'puntos de reputación ',
 	'to comment, need':'para comentar necesitas',
 	'delete this comment':'borrar este comentario',
 	'hide comments':'ocultar comentarios',
