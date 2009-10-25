@@ -23,7 +23,7 @@ msgstr "cuenta/"
 #: django_authopenid/urls.py:11 django_authopenid/urls.py:13
 #: forum/views.py:304 templates/authopenid/confirm_email.txt:10
 msgid "signin/"
-msgstr "ingresar/"
+msgstr "signin/"
 
 #: django_authopenid/forms.py:67 django_authopenid/views.py:102
 msgid "i-names are not supported"
@@ -118,35 +118,35 @@ msgstr "Nombre de usuario incorrecto"
 
 #: django_authopenid/urls.py:10
 msgid "newquestion/"
-msgstr "nueva-pregunta/"
+msgstr "newquestion/"
 
 #: django_authopenid/urls.py:11
 msgid "newanswer/"
-msgstr "respuesta-nueva/"
+msgstr "newanswer/"
 
 #: django_authopenid/urls.py:12
 msgid "signout/"
-msgstr "salir/"
+msgstr "signout/"
 
 #: django_authopenid/urls.py:13
 msgid "complete/"
-msgstr "completado/"
+msgstr "complete/"
 
 #: django_authopenid/urls.py:15
 msgid "register/"
-msgstr "registrarse/"
+msgstr "register/"
 
 #: django_authopenid/urls.py:16
 msgid "signup/"
-msgstr "registrarse/"
+msgstr "signup/"
 
 #: django_authopenid/urls.py:18
 msgid "sendpw/"
-msgstr "enviarcontrasena/"
+msgstr "sendpw/"
 
 #: django_authopenid/urls.py:29
 msgid "delete/"
-msgstr "borrar/"
+msgstr "delete/"
 
 #: django_authopenid/views.py:108
 #, python-format
@@ -1023,7 +1023,7 @@ msgid ""
 "Most importanly - questions should be <strong>relevant</strong> to this "
 "community."
 msgstr ""
-"Por encima de todo - las preguntas deben ser <strong>relevantes</strong>a "
+"Por encima de todo - las solicitudes deben ser <strong>relevantes</strong> a "
 "esta comunidad."
 
 #: templates/faq.html:18
@@ -1031,24 +1031,24 @@ msgid ""
 "Before asking the question - please make sure to use search to see whether "
 "your question has alredy been answered."
 msgstr ""
-"Antes de hacer tu pregunta - por favor usa el buscador para asegurarte que "
-"la pregunta no este ya hecha."
+"Antes de hacer tu solicitud - por favor usa el buscador para asegurarte que "
+"la solicitud no esté ya hecha."
 
 #: templates/faq.html:21
 msgid "What questions should I avoid asking?"
-msgstr "¿Qué preguntas debería evitar preguntar?"
+msgstr "¿Qué solicitudes debería evitar hacer?"
 
 #: templates/faq.html:22
 msgid ""
 "Please avoid asking questions that are not relevant to this community, too "
 "subjective and argumentative."
 msgstr ""
-"Evita hacer preguntas que no son relevantes a la comunidad, demasiado "
+"Evita hacer solicitudes que no son relevantes a la comunidad, demasiado "
 "subjetivas o argumentativas."
 
 #: templates/faq.html:27
 msgid "What should I avoid in my answers?"
-msgstr "¿Que debo evitar en mis respuestas?"
+msgstr "¿Qué debo evitar en mis solicitudes?"
 
 #: templates/faq.html:28 templates/faq.html.py:132
 msgid "site title"
@@ -1060,7 +1060,7 @@ msgid ""
 "discussions in your answers, comment facility allows some space for brief "
 "discussions."
 msgstr ""
-"es un sitio de Preguntas y Respuestas, no un grupo de discusión. Por ende, "
+"es un sitio de Solicitudes de Recursos, no un grupo de discusión. Por ende, "
 "intenta evitar discusiones en tus respuestas. Los comentarios permiten "
 "realizar pequeñas discusiones."
 
@@ -1070,7 +1070,7 @@ msgstr "¿Quién modera esta comunidad?"
 
 #: templates/faq.html:33
 msgid "The short answer is: <strong>you</strong>."
-msgstr "La respuesta corta es: <strong>tú</strong>"
+msgstr "La respuesta corta es: <strong>tú</strong>."
 
 #: templates/faq.html:34
 msgid "This website is moderated by the users."
@@ -1090,7 +1090,7 @@ msgstr "¿Cómo funciona el sistema de reputación?"
 
 #: templates/faq.html:41
 msgid "Rep system summary"
-msgstr "resumen del sistema de reputación"
+msgstr "Resumen del sistema de reputación"
 
 #: templates/faq.html:59 templates/user_votes.html:14
 msgid "upvote"
@@ -1098,7 +1098,7 @@ msgstr "votar positivo"
 
 #: templates/faq.html:63
 msgid "use tags"
-msgstr "etiquetas usadas"
+msgstr "usar etiquetas"
 
 #: templates/faq.html:68
 msgid "add comments"
@@ -1148,15 +1148,15 @@ msgstr "como validar la información del correo"
 
 #: templates/faq.html:112
 msgid "what is gravatar"
-msgstr "qué es gravatar"
+msgstr "¿Qué es gravatar?"
 
 #: templates/faq.html:113
 msgid "gravatar faq info"
-msgstr "preguntas frecuentes sobre gravatar"
+msgstr "Preguntas frecuentes sobre gravatar"
 
 #: templates/faq.html:116
 msgid "To register, do I need to create new password?"
-msgstr "¿Para registrarme, debo crearme una cuenta?"
+msgstr "Para registrarme, ¿debo crearme una cuenta?"
 
 #: templates/faq.html:117
 msgid ""
@@ -1172,11 +1172,13 @@ msgstr "Ingresa ahora!"
 
 #: templates/faq.html:123
 msgid "Why other people can edit my questions/answers?"
-msgstr "¿Porqué otras personas pueden editar mis preguntas y respuestas?"
+msgstr "¿Porqué otras personas pueden editar mis solicitudes y respuestas?"
 
 #: templates/faq.html:124
 msgid "Goal of this site is..."
-msgstr "El objetivo de este sitio es..."
+msgstr "El objetivo de este sitio es darte la oportunidad de solicitar "
+"un determinado recurso de forma clara y concisa, de manera a "
+"que los otros usuarios puedan proveer aquel recurso con exactitud."
 
 #: templates/faq.html:124
 msgid ""
@@ -1184,7 +1186,7 @@ msgid ""
 "of this site and this improves the overall quality of the knowledge base "
 "content."
 msgstr ""
-"Entonces, las preguntas y respuestas pueden ser editadas como wiki por "
+"Entonces, las solicitudes y respuestas pueden ser editadas como wiki por "
 "usuarios con experiencia, y esto mejora la calidad general del conocimiento "
 "guardado."
 
@@ -1321,7 +1323,7 @@ msgstr "respuestas"
 #: templates/unanswered.html:75 templates/unanswered.html.py:109
 #: templates/users_questions.html:52
 msgid "see questions tagged"
-msgstr "ver preguntas etiquetadas"
+msgstr "ver solicitudes etiquetadas"
 
 #: templates/index.html:80
 msgid "welcome to website"
