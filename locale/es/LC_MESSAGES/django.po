@@ -1546,7 +1546,7 @@ msgstr "cerrada en fecha %(question.closed_at)s"
 
 #: templates/question.html:259 templates/user_stats.html:28
 msgid "Answers"
-msgstr "Respuestas"
+msgstr " Respuestas"
 
 #: templates/question.html:261
 msgid "oldest answers will be shown first"
