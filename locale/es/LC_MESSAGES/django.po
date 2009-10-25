@@ -41,7 +41,7 @@ msgid ""
 "This username does not exist                     in our database. Please "
 "choose another."
 msgstr ""
-"Este nombre de usuario no existe en nuestra base de datos. Por favor elija "
+"Este nombre de usuario no existe en nuestra base de datos. Por favor elije "
 "otro."
 
 #: django_authopenid/forms.py:126 django_authopenid/forms.py:233
@@ -49,21 +49,21 @@ msgid ""
 "Please enter a valid                     username and password. Note that "
 "both fields are                     case-sensitive."
 msgstr ""
-"Por favor ingrese un usuario y contraseña validos. Ambos campos son "
+"Por favor ingresa un usuario y contraseña válidos. Ambos campos son "
 "sensibles a mayúsculas y minúsculas."
 
 #: django_authopenid/forms.py:130 django_authopenid/forms.py:237
 msgid "This account is inactive."
-msgstr "Esta cuenta esta inactiva."
+msgstr "Esta cuenta está inactiva."
 
 #: django_authopenid/forms.py:158 django_authopenid/forms.py:210
 msgid "invalid user name"
-msgstr "nombre de usuario no valido"
+msgstr "nombre de usuario no válido"
 
 #: django_authopenid/forms.py:160
 msgid "sorry, this name can not be used, please try another"
 msgstr ""
-"perdón, pero este nombre de usuario no puede ser usado, intente con otro"
+"perdón, pero no puedes usar este nombre de usuario, intenta con otro"
 
 #: django_authopenid/forms.py:162
 msgid "username too short"
@@ -71,42 +71,42 @@ msgstr "nombre de usuario muy corto"
 
 #: django_authopenid/forms.py:170 django_authopenid/forms.py:171
 msgid "this name is already in use - please try anoter"
-msgstr "este nombre ya está tomado - por favor intente con otro"
+msgstr "este nombre ya está tomado - por favor intenta con otro"
 
 #: django_authopenid/forms.py:185
 msgid ""
 "This email is already                         registered in our database. "
 "Please choose another."
 msgstr ""
-"Este email ya está registrado en nuestra base de datos. Por favor, intente "
+"Este email ya está registrado en nuestra base de datos. Por favor, intenta "
 "con otro."
 
 #: django_authopenid/forms.py:216
 msgid ""
 "This username don't exist.                         Please choose another."
-msgstr "Este nombre de usuario no existe, por favor ingrese otro."
+msgstr "Este nombre de usuario no existe, por favor ingresa otro."
 
 #: django_authopenid/forms.py:255
 msgid "choose a username"
-msgstr "elija un nombre de usuario"
+msgstr "elije un nombre de usuario"
 
 #: django_authopenid/forms.py:257 templates/authopenid/signup.html:38
 msgid "your email address"
-msgstr "su email (correo electrónico)"
+msgstr "tu email (correo electrónico)"
 
 #: django_authopenid/forms.py:259 templates/authopenid/signup.html:39
 msgid "choose password"
-msgstr "elija una contraseña"
+msgstr "elije una contraseña"
 
 #: django_authopenid/forms.py:261 templates/authopenid/signup.html:40
 msgid "retype password"
-msgstr "re-ingrese la contraseña"
+msgstr "re-ingresa la contraseña"
 
 #: django_authopenid/forms.py:335
 msgid ""
 "Old password is incorrect.                     Please enter the correct "
 "password."
-msgstr "La antigua contraseña es incorrecta. Por favor ingrese la correcta"
+msgstr "La antigua contraseña es incorrecta. Por favor ingresa la correcta"
 
 #: django_authopenid/forms.py:347
 msgid "new passwords do not match"
@@ -159,11 +159,11 @@ msgstr "Bienvenido"
 
 #: django_authopenid/views.py:507
 msgid "Password changed."
-msgstr "Contraseña modificada"
+msgstr "Contraseña modificada."
 
 #: django_authopenid/views.py:519 django_authopenid/views.py:524
 msgid "your email needs to be validated"
-msgstr "su correo electrónico necesita ser validado"
+msgstr "tu correo electrónico necesita ser validado"
 
 #: django_authopenid/views.py:681 django_authopenid/views.py:833
 #, python-format
@@ -207,7 +207,7 @@ msgid ""
 "registered."
 msgstr ""
 "No se ha podido modificar la contraseña. La clave de confirmación '%s' no "
-"está registrada"
+"está registrada."
 
 #: django_authopenid/views.py:935
 msgid ""
@@ -224,11 +224,11 @@ msgstr "Contraseña cambiada por %s. Ahora puedes ingresar."
 
 #: forum/const.py:8
 msgid "duplicate question"
-msgstr "pregunta duplicada"
+msgstr "solicitud duplicada"
 
 #: forum/const.py:9
 msgid "question if off-topic or not relevant"
-msgstr "pregunta esta fuera de tema o no es relevante"
+msgstr "solicitud esta fuera de tema o no es relevante"
 
 #: forum/const.py:10
 msgid "too subjective and argumentative"
@@ -236,11 +236,11 @@ msgstr "demasiado subjetiva o argumentativa"
 
 #: forum/const.py:11
 msgid "is not an answer to the question"
-msgstr "no es una respuesta a la pregunta"
+msgstr "no es una respuesta a la solicitud"
 
 #: forum/const.py:12
 msgid "the question is answered, right answer was accepted"
-msgstr "la pregunta esta respondida, se ha aceptado la respuesta correcta"
+msgstr "la solicitud esta respondida, se ha aceptado la respuesta correcta"
 
 #: forum/const.py:13
 msgid "problem is not reproducible or outdated"
@@ -248,7 +248,7 @@ msgstr "el problema no es reproducible o caducó"
 
 #: forum/const.py:15
 msgid "question contains offensive inappropriate, or malicious remarks"
-msgstr "la pregunta contiene frases ofensivas, inapropiadas o maliciosas."
+msgstr "la solicitud contiene frases ofensivas, inapropiadas o maliciosas."
 
 #: forum/const.py:16
 msgid "spam or advertising"
@@ -256,15 +256,15 @@ msgstr "spam o publicidad"
 
 #: forum/const.py:56
 msgid "question"
-msgstr "pregunta"
+msgstr "solicitud"
 
 #: forum/const.py:57 templates/book.html:110
 msgid "answer"
-msgstr "resputa"
+msgstr "respuesta"
 
 #: forum/const.py:58
 msgid "commented question"
-msgstr "pregunta comentada"
+msgstr "solicitud comentada"
 
 #: forum/const.py:59
 msgid "commented answer"
@@ -272,7 +272,7 @@ msgstr "respuesta comentada"
 
 #: forum/const.py:60
 msgid "edited question"
-msgstr "pregunta editada"
+msgstr "solicitud editada"
 
 #: forum/const.py:61
 msgid "edited answer"
@@ -300,7 +300,7 @@ msgstr "voto cancelado"
 
 #: forum/const.py:67
 msgid "deleted question"
-msgstr "pregunta borrada"
+msgstr "solicitud borrada"
 
 #: forum/const.py:68
 msgid "deleted answer"
@@ -312,7 +312,7 @@ msgstr "marcada como ofensiva"
 
 #: forum/const.py:70
 msgid "updated tags"
-msgstr "etiquetas actualizadas"
+msgstr "tags actualizados"
 
 #: forum/const.py:71
 msgid "selected favorite"
@@ -344,25 +344,25 @@ msgstr " - "
 
 #: forum/feed.py:18
 msgid "latest questions"
-msgstr "últimas preguntas"
+msgstr "últimas solicitudes"
 
 #: forum/feed.py:19
 msgid "questions/"
-msgstr "preguntas/"
+msgstr "solicitudes/"
 
 #: forum/forms.py:14 templates/answer_edit_tips.html:34
 #: templates/answer_edit_tips.html.py:38 templates/question_edit_tips.html:31
 #: templates/question_edit_tips.html:36
 msgid "title"
-msgstr "título"
+msgstr "Título"
 
 #: forum/forms.py:15
 msgid "please enter a descriptive title for your question"
-msgstr "ingrese un título descriptivo para su pregunta"
+msgstr "Ingresa un título descriptivo para tu solicitud"
 
 #: forum/forms.py:20
 msgid "title must be > 10 characters"
-msgstr "el título debe tener al menos 10 caracteres"
+msgstr "El título debe tener más de 10 caracteres"
 
 #: forum/forms.py:29
 msgid "content"
@@ -370,16 +370,17 @@ msgstr "contenido"
 
 #: forum/forms.py:35
 msgid "question content must be > 10 characters"
-msgstr "el contenido de la pregunta debe ser al menos de 10 caracteres"
+msgstr "El contenido de la solicitud debe tener más de 10 caracteres"
 
 #: forum/forms.py:45 templates/header.html:30 templates/header.html.py:61
 msgid "tags"
-msgstr "etiquetas"
+msgstr "tags"
 
 #: forum/forms.py:47
 msgid ""
 "Tags are short keywords, with no spaces within. Up to five tags can be used."
-msgstr ""
+msgstr "Los tags (etiquetas), son palabras clave cortas que no están "
+"separadas por espacios. Puedes usar hasta cinco tags."
 
 #: forum/forms.py:54 templates/question_retag.html:38
 msgid "tags are required"
@@ -387,18 +388,18 @@ msgstr "las etiquetas son requeridas"
 
 #: forum/forms.py:58
 msgid "please use 5 tags or less"
-msgstr "por favor use 5 o menos etiquetas"
+msgstr "por favor utiliza 5 o menos etiquetas"
 
 #: forum/forms.py:61
 msgid "tags must be shorter than 20 characters"
-msgstr "las etiquetas deben ser menores a 20 caracteres"
+msgstr "la longitud de las etiquetas debe ser menor a 20 caracteres"
 
 #: forum/forms.py:65
 msgid ""
 "please use following characters in tags: letters 'a-z', numbers, and "
 "characters '.-_#'"
 msgstr ""
-"por favor use solo los siguientes caracteres en los nombres de etiquetas: "
+"por favor utiliza sólo los siguientes caracteres en los nombres de etiquetas: "
 "letras 'a-z', números y caracteres '.-_#'"
 
 #: forum/forms.py:75 templates/index.html:57 templates/question.html:199
@@ -413,20 +414,20 @@ msgid ""
 "if you choose community wiki option, the question and answer do not generate "
 "points and name of author will not be shown"
 msgstr ""
-"si marca la opción 'wiki de comunidad', la pregunta y respuestas no generan "
+"si marcas la opción 'wiki de comunidad', la solicitud y respuestas no generan "
 "puntos y el nombre del autor no será mostrado"
 
 #: forum/forms.py:89
 msgid "update summary:"
-msgstr "resumen de modificación"
+msgstr "resumen de modificación:"
 
 #: forum/forms.py:90
 msgid ""
 "enter a brief summary of your revision (e.g. fixed spelling, grammar, "
 "improved style, this field is optional)"
 msgstr ""
-"ingresa un breve resumen de tu revisión (ej. error ortográfico, gramática, "
-"mejoras de estilo. Este campo es opcional."
+"ingresa un breve resumen de tu revisión (ej.: error ortográfico, gramática, "
+"mejoras de estilo, este campo es opcional)"
 
 #: forum/forms.py:175
 msgid "this email does not have to be linked to gravatar"
@@ -450,7 +451,7 @@ msgstr "Fecha de nacimiento"
 
 #: forum/forms.py:179
 msgid "will not be shown, used to calculate age, format: YYYY-MM-DD"
-msgstr "no será mostrado, usado para calcular la edad. Formato: YYY-MM-DD"
+msgstr "no será mostrado, usado para calcular la edad. Formato: YYYY-MM-DD"
 
 #: forum/forms.py:180 templates/authopenid/settings.html:21
 msgid "Profile"
@@ -458,32 +459,32 @@ msgstr "Perfil"
 
 #: forum/forms.py:207 forum/forms.py:208
 msgid "this email has already been registered, please use another one"
-msgstr "este email ya ha sido registrado, por favor use otro"
+msgstr "este email ya ha sido registrado, por favor usa otro"
 
 #: forum/models.py:238
 #, fuzzy, python-format
 msgid "%(author)s modified the question"
-msgstr "%(author) modificó la pregunta"
+msgstr "%(author) modificó la solicitud"
 
 #: forum/models.py:242
 #, python-format
 msgid "%(people)s posted %(new_answer_count)s new answers"
-msgstr "%(people)s publicaron %(new_answer_count)s nuevas respuestas"
+msgstr "%(people)s postearon %(new_answer_count)s nuevas respuestas"
 
 #: forum/models.py:247
 #, python-format
 msgid "%(people)s commented the question"
-msgstr "%(people)s comentarion la pregunta"
+msgstr "%(people)s comentaron la solicitud"
 
 #: forum/models.py:252
 #, python-format
 msgid "%(people)s commented answers"
-msgstr "%(people)s comentaron la respuesta"
+msgstr "%(people)s comentaron las respuestas"
 
 #: forum/models.py:254
 #, python-format
 msgid "%(people)s commented the answer"
-msgstr "%(people)s comentaron la respuestas"
+msgstr "%(people)s comentaron la respuesta"
 
 #: forum/models.py:433 templates/badges.html:52
 msgid "gold"
@@ -495,11 +496,11 @@ msgstr "plata"
 
 #: forum/models.py:435 templates/badges.html:67
 msgid "bronze"
-msgstr "bronze"
+msgstr "bronce"
 
 #: forum/user.py:16 templates/user_tabs.html:7
 msgid "overview"
-msgstr "vista general"
+msgstr "descripción general"
 
 #: forum/user.py:17
 msgid "user profile"
@@ -507,7 +508,7 @@ msgstr "perfil de usuario"
 
 #: forum/user.py:18
 msgid "user profile overview"
-msgstr "vista general del perfil de usuario"
+msgstr "descripción general del perfil de usuario"
 
 #: forum/user.py:24 templates/user_tabs.html:9
 msgid "recent activity"
@@ -527,7 +528,7 @@ msgstr "respuestas"
 
 #: forum/user.py:34 templates/user_tabs.html:12
 msgid "comments and answers to others questions"
-msgstr "comentarios y respuestas a preguntas de otros"
+msgstr "comentarios y respuestas a solicitudes de otros"
 
 #: forum/user.py:35
 msgid "profile - responses"
@@ -547,15 +548,15 @@ msgstr "perfil - reputación del usuario"
 
 #: forum/user.py:50
 msgid "favorite questions"
-msgstr "preguntas favoritas"
+msgstr "solicitudes favoritas"
 
 #: forum/user.py:51
 msgid "users favorite questions"
-msgstr "preguntas favoritas del usuario"
+msgstr "solicitudes favoritas del usuario"
 
 #: forum/user.py:52
 msgid "profile - favorite questions"
-msgstr "perfil - preguntas favoritas"
+msgstr "perfil - solicitudes favoritas"
 
 #: forum/user.py:59 templates/user_tabs.html:20
 msgid "casted votes"
@@ -575,11 +576,11 @@ msgstr "preferencias"
 
 #: forum/user.py:69 templates/user_tabs.html:27
 msgid "user preference settings"
-msgstr "preferencias del usuario"
+msgstr "configuración de preferencias del usuario"
 
 #: forum/user.py:70
 msgid "profile - user preferences"
-msgstr "perfil - preferencia de "
+msgstr "perfil - preferencias de usuario"
 
 #: forum/views.py:304
 msgid "/account/"
@@ -603,14 +604,15 @@ msgstr ""
 #: forum/views.py:1857
 #, python-format
 msgid "maximum upload file size is %sK"
-msgstr "tamaño máximo permitido es archivo %sK"
+msgstr "el tamaño de archivo máximo permitido es %sK"
 
 #: forum/views.py:1859
 #, python-format
 msgid ""
 "Error uploading file. Please contact the site administrator. Thank you. %s"
 msgstr ""
-"Error al subir el archivo. Por favor, contacte al administrador. Gracias. %s"
+"Uff! Hubo un error al subir el archivo :( Por favor, contacta "
+" con el administrador. Gracias!. %s"
 
 #: forum/management/commands/send_email_alerts.py:35
 msgid "updates from website"
@@ -627,11 +629,11 @@ msgstr "puntos de reputación"
 
 #: forum/templatetags/extra_tags.py:221
 msgid " ago"
-msgstr " atras"
+msgstr " atrás"
 
 #: templates/404.html:24
 msgid "Sorry, could not find the page you requested."
-msgstr "Disculpe, no se pudo encontrar la página que solicito."
+msgstr "Ouch! Plethora no encuentra la página que estas buscando =/"
 
 #: templates/404.html:26
 msgid "This might have happened for the following reasons:"
@@ -639,60 +641,64 @@ msgstr "Esto puede haber sucedido por alguno de los siguientes motivos:"
 
 #: templates/404.html:28
 msgid "this question or answer has been deleted;"
-msgstr "esta pregunta o respuesta ha sido borrada;"
+msgstr "esta solicitud o respuesta ha sido borrada;"
 
 #: templates/404.html:29
 msgid "url has error - please check it;"
-msgstr "la url tiene un error - por favor compruebelo;"
+msgstr "no queremos juzgarte, pero tal vez la url tenga un error - "
+"por favor compruébala;"
 
 #: templates/404.html:30
 msgid ""
 "the page you tried to visit is protected or you don't have sufficient "
 "points, see"
 msgstr ""
-"La pagina que intentas acceder esta protegida o no tienes los puntos de "
-"reputación suficientes, ver"
+"La página que intentas acceder está protegida o no tienes los puntos de "
+"reputación suficientes, échale una mirada al "
 
 #: templates/404.html:31
 msgid "if you believe this error 404 should not have occured, please"
-msgstr "si consideras que este error 404 no debería haber sucedido, por favor"
+msgstr "Sí, sí.. a pesar de que Plethora no se equivoca, los seres "
+"humanos que la programaron sí pueden fallar :P Si consideras que "
+"este error 404 no debería haber sucedido, por favor"
 
 #: templates/404.html:32
 msgid "report this problem"
-msgstr "reporta este problema"
+msgstr "reporta este problema."
 
 #: templates/404.html:41 templates/500.html:27
 msgid "back to previous page"
-msgstr "volver a la página siguiente"
+msgstr "volver a la página anterior"
 
 #: templates/404.html:42
 msgid "see all questions"
-msgstr "ver todas las preguntas"
+msgstr "ver todas las solicitudes"
 
 #: templates/404.html:43
 msgid "see all tags"
-msgstr "ver todas las tags"
+msgstr "ver todas las etiquetas"
 
 #: templates/500.html:22
 msgid "sorry, system error"
-msgstr ""
+msgstr "Me quiero volver chango! Plethora detectó un error en el sistema"
 
 #: templates/500.html:24
 msgid "system error log is recorded, error will be fixed as soon as possible"
 msgstr ""
-"el error del sistema ha sido registrado, y será solucionado lo antes postible"
+"el error del sistema ha sido registrado, será solucionado lo antes postible "
+"sea como sea (no te preocupes, nadie saldrá herido)"
 
 #: templates/500.html:25
 msgid "please report the error to the site administrators if you wish"
-msgstr "por favor reportar el error al administrador de ser posible"
+msgstr "El Deber te llama! Por favor reporta este error al administrador!"
 
 #: templates/500.html:28
 msgid "see latest questions"
-msgstr "ver ultimas preguntas"
+msgstr "ver últimas solicitudes"
 
 #: templates/500.html:29
 msgid "see tags"
-msgstr "ver tags"
+msgstr "ver etiquetas"
 
 #: templates/about.html:6 templates/about.html.py:11
 msgid "About"
@@ -711,7 +717,7 @@ msgstr "ocultar previsualización"
 #: templates/answer_edit.html:27 templates/ask.html:28
 #: templates/question.html:43 templates/question_edit.html:27
 msgid "show preview"
-msgstr "ver previsualización"
+msgstr "mostrar previsualización"
 
 #: templates/answer_edit.html:47 templates/question_edit.html:65
 #: templates/question_retag.html:52 templates/revisions_answer.html:36
@@ -731,7 +737,7 @@ msgstr "seleccionar revisión"
 #: templates/answer_edit.html:62 templates/ask.html:94
 #: templates/question.html:452 templates/question_edit.html:91
 msgid "Toggle the real time Markdown editor preview"
-msgstr "Activar la visualización en tiempo real de Markdown"
+msgstr "Activar la visualización en tiempo real del editor Markdown"
 
 #: templates/answer_edit.html:62 templates/ask.html:94
 #: templates/question.html:452 templates/question_edit.html:91
@@ -741,7 +747,7 @@ msgstr "Activar previsualización"
 #: templates/answer_edit.html:73 templates/question_edit.html:119
 #: templates/question_retag.html:75
 msgid "Save edit"
-msgstr "Guardar la edición"
+msgstr "Guardar cambios"
 
 #: templates/answer_edit.html:74 templates/close.html:29
 #: templates/question_edit.html:120 templates/question_retag.html:76
@@ -768,7 +774,7 @@ msgstr "por favor, intenta brindar detalles"
 
 #: templates/answer_edit_tips.html:16 templates/question_edit_tips.html:13
 msgid "be clear and concise"
-msgstr "ser claro y conciso"
+msgstr "sé claro y conciso"
 
 #: templates/answer_edit_tips.html:19 templates/question_edit_tips.html:16
 msgid "see frequently asked questions"
@@ -776,11 +782,11 @@ msgstr "ver preguntas frecuentes"
 
 #: templates/answer_edit_tips.html:25 templates/question_edit_tips.html:22
 msgid "Markdown tips"
-msgstr "sugerencias de Markdown"
+msgstr "Sugerencias sobre editor Markdown"
 
 #: templates/answer_edit_tips.html:28 templates/question_edit_tips.html:25
 msgid "*italic* or __italic__"
-msgstr "*itálica* o __itálica__"
+msgstr "*itálica* o _itálica_"
 
 #: templates/answer_edit_tips.html:31 templates/question_edit_tips.html:28
 msgid "**bold** or __bold__"
@@ -801,28 +807,28 @@ msgstr "imagen"
 
 #: templates/answer_edit_tips.html:42 templates/question_edit_tips.html:40
 msgid "numbered list:"
-msgstr "lista numerada"
+msgstr "lista numerada:"
 
 #: templates/answer_edit_tips.html:47 templates/question_edit_tips.html:45
 msgid "basic HTML tags are also supported"
-msgstr "etiquetas básicas de HTML permitidas"
+msgstr "también puedes utilizar etiquetas básicas de HTML"
 
 #: templates/answer_edit_tips.html:50 templates/question_edit_tips.html:48
 msgid "learn more about Markdown"
-msgstr "aprender mas sobre Markdown"
+msgstr "aprender más sobre Markdown"
 
 #: templates/ask.html:4 templates/ask.html.py:60
 msgid "Ask a question"
-msgstr "Preguntar"
+msgstr "Solicitar recurso"
 
 #: templates/ask.html:67
 msgid "login to post question info"
-msgstr "Inicie sesión para publicar pregunta."
+msgstr "Inicia sesión para publicar tu solicitud."
 
 #: templates/ask.html:73
 #, python-format
 msgid "must have valid %(email)s to post"
-msgstr "debe de tener un %(email)s válido para publicar"
+msgstr "debes tener un %(email)s válido para publicar"
 
 #: templates/ask.html:108
 msgid "(required)"
@@ -830,11 +836,11 @@ msgstr "(requerido)"
 
 #: templates/ask.html:115
 msgid "Login/signup to post your question"
-msgstr "Iniciar sesión/registrarse para publicar su pregunta"
+msgstr "Inicia sesión o regístrate para publicar tu solicitud"
 
 #: templates/ask.html:117
 msgid "Ask your question"
-msgstr "Haz tu pregunta"
+msgstr "Haz tu solicitud"
 
 #: templates/badge.html:6 templates/badge.html.py:17
 msgid "Badge"
@@ -842,7 +848,7 @@ msgstr "Distinción"
 
 #: templates/badge.html:26
 msgid "The users have been awarded with badges:"
-msgstr "Usuarios han sido galardonados con distinciones:"
+msgstr "Estos usuarios han sido galardonados con distinciones:"
 
 #: templates/badges.html:6
 msgid "Badges summary"
@@ -873,13 +879,13 @@ msgid "gold badge description"
 msgstr ""
 "Las distinciones de Oro son excepcionales. Para obtenerla debes demostrar un "
 "profundo conocimiento y habilidad además de participar activamente en la "
-"comunidad. La distinción de Oro es la condecoración máxima en esta comunidad"
+"comunidad. La distinción de Oro es la condecoración máxima en esta comunidad."
 
 #: templates/badges.html:63
 msgid "silver badge description"
 msgstr ""
 "Obtener una distinción de Plata requiere de paciencia. Si has logrado una, "
-"quiere decir que haz significativamente aportado a esta comunidad."
+"quiere decir que haz aportado significativamente a esta comunidad."
 
 #: templates/badges.html:66
 msgid "bronze badge: often given as a special honor"
@@ -951,12 +957,12 @@ msgstr "preguntar al autor"
 #: templates/book.html:88 templates/book.html.py:93
 #: templates/users_questions.html:17
 msgid "this question was selected as favorite"
-msgstr "esta pregunta ha sido seleccionada como favorita"
+msgstr "esta solicitud ha sido seleccionada como favorita"
 
 #: templates/book.html:88 templates/book.html.py:93
 #: templates/users_questions.html:11 templates/users_questions.html.py:17
 msgid "number of times"
-msgstr "numero de veces"
+msgstr "número de veces"
 
 #: templates/book.html:105 templates/index.html:48 templates/questions.html:46
 #: templates/unanswered.html:37 templates/users_questions.html:30
@@ -990,15 +996,15 @@ msgstr "suscribirse al agregado de noticias"
 
 #: templates/close.html:6 templates/close.html.py:16
 msgid "Close question"
-msgstr "Cerrar pregunta"
+msgstr "Cerrar solicitud"
 
 #: templates/close.html:19
 msgid "Close the question"
-msgstr "Cerrar la pregunta"
+msgstr "Cerrar la solicitud"
 
 #: templates/close.html:25
 msgid "Reasons"
-msgstr "Razón"
+msgstr "Razones"
 
 #: templates/close.html:28
 msgid "OK to close"
@@ -1010,7 +1016,7 @@ msgstr "Preguntas Frecuentes"
 
 #: templates/faq.html:16
 msgid "What kinds of questions can I ask here?"
-msgstr "¿Qué clase de preguntas puedo hacer aquí?"
+msgstr "¿Qué clase de solicitudes puedo hacer aquí?"
 
 #: templates/faq.html:17
 msgid ""
@@ -1197,7 +1203,7 @@ msgstr "Por favor haz tu pregunta, ¡ayudanos a mejorar nuestra comunidad!"
 
 #: templates/faq.html:132 templates/header.html:29 templates/header.html.py:60
 msgid "questions"
-msgstr "preguntas"
+msgstr "solicitudes"
 
 #: templates/faq.html:132 templates/index.html:121
 msgid "."
@@ -1217,11 +1223,11 @@ msgstr "blog"
 
 #: templates/footer.html:10
 msgid "contact us"
-msgstr "contactenos"
+msgstr "contáctanos"
 
 #: templates/footer.html:11
 msgid "privacy policy"
-msgstr "código de privacidad"
+msgstr "política de privacidad"
 
 #: templates/footer.html:12
 msgid "give feedback"
@@ -1253,7 +1259,7 @@ msgstr "libros"
 
 #: templates/header.html:34
 msgid "unanswered questions"
-msgstr "sin respuesta"
+msgstr "solicitudes pendientes"
 
 #: templates/header.html:38
 msgid "my profile"
@@ -1261,7 +1267,7 @@ msgstr "mi perfil"
 
 #: templates/header.html:42
 msgid "ask a question"
-msgstr "hacer una pregunta"
+msgstr "solicitar recurso"
 
 #: templates/header.html:57
 msgid "search"
@@ -1277,7 +1283,7 @@ msgstr "Preguntas"
 
 #: templates/index.html:24
 msgid "last updated questions"
-msgstr "ultimas preguntas actualizadas"
+msgstr "ultimas solicitudes actualizadas"
 
 #: templates/index.html:24 templates/questions.html:25
 #: templates/unanswered.html:20
@@ -1294,7 +1300,7 @@ msgstr "más calientes"
 
 #: templates/index.html:26 templates/questions.html:28
 msgid "most voted questions"
-msgstr "preguntas más votadas"
+msgstr "solicitudes más votadas"
 
 #: templates/index.html:26 templates/questions.html:28
 msgid "most voted"
@@ -1302,7 +1308,7 @@ msgstr "más votadas"
 
 #: templates/index.html:27
 msgid "all questions"
-msgstr "todas las preguntas"
+msgstr "todas las solicitudes"
 
 #: templates/index.html:47 templates/questions.html:45
 #: templates/unanswered.html:36 templates/users_questions.html:35
@@ -1319,7 +1325,7 @@ msgstr "ver preguntas etiquetadas"
 
 #: templates/index.html:80
 msgid "welcome to website"
-msgstr "bienvenido a sitio"
+msgstr "Bienvenido a Plethora"
 
 #: templates/index.html:89
 msgid "Recent tags"
@@ -1336,7 +1342,7 @@ msgstr "etiquetas populares"
 
 #: templates/index.html:101
 msgid "Recent awards"
-msgstr "Reconocimientos recientes"
+msgstr "Distinciones recientes"
 
 #: templates/index.html:107
 msgid "given to"
@@ -1344,7 +1350,7 @@ msgstr "dados a"
 
 #: templates/index.html:112
 msgid "all awards"
-msgstr "todos los reconocimientos"
+msgstr "todas las distinciones"
 
 #: templates/index.html:116
 msgid "subscribe to last 30 questions by RSS"
@@ -1647,15 +1653,15 @@ msgstr "Editar pregunta"
 
 #: templates/question_edit_tips.html:4
 msgid "question tips"
-msgstr "sugerencias sobre pregunta"
+msgstr "Sugerencias sobre pregunta"
 
 #: templates/question_edit_tips.html:7
 msgid "please ask a relevant question"
-msgstr "por favor hacer preguntas relevantes"
+msgstr "por favor hacer solicitudes relevantes"
 
 #: templates/question_edit_tips.html:10
 msgid "please try provide enough details"
-msgstr "intente proveer suficientes detalles"
+msgstr "intenta proveer suficientes detalles"
 
 #: templates/question_retag.html:3 templates/question_retag.html.py:52
 msgid "Change tags"
