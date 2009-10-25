@@ -2394,7 +2394,8 @@ msgid ""
 "                Your answer to %(title)s %(summary)s will be posted once you "
 "log in\n"
 "                "
-msgstr "Tu respuesta a %(title)s %(summary)s será posteada una vez que inicies sesión"
+msgstr "\n"
+"Tu respuesta a %(title)s %(summary)s será posteada una vez que inicies sesión"
 
 #: templates/authopenid/signin.html:35
 #, python-format
