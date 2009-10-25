@@ -860,7 +860,7 @@ msgstr "Distinciones"
 
 #: templates/badges.html:21
 msgid "Community gives you awards for your questions, answers and votes."
-msgstr "La comunidad te da distinciones por tus preguntas, respuestas y votos."
+msgstr "La comunidad te da distinciones por tus solicitudes, respuestas y votos."
 
 #: templates/badges.html:22
 msgid ""
@@ -1110,23 +1110,23 @@ msgstr "votar negativo"
 
 #: templates/faq.html:75
 msgid "open and close own questions"
-msgstr "abrir y cerrar sus propias preguntas"
+msgstr "abrir y cerrar sus propias solicitudes"
 
 #: templates/faq.html:79
 msgid "retag questions"
-msgstr "re-etiquetar preguntas"
+msgstr "re-etiquetar solicitudes"
 
 #: templates/faq.html:83
 msgid "edit community wiki questions"
-msgstr "editar preguntas de la wiki comunitaria"
+msgstr "editar solicitudes de la wiki comunitaria"
 
 #: templates/faq.html:87
 msgid "edit any answer"
-msgstr "editar cualquier pregunta"
+msgstr "editar cualquier solicitud"
 
 #: templates/faq.html:91
 msgid "open any closed question"
-msgstr "abrir cualquier pregunta cerrada"
+msgstr "abrir cualquier solicitud cerrada"
 
 #: templates/faq.html:95
 msgid "delete any comment"
@@ -1135,7 +1135,7 @@ msgstr "borrar cualquier comentario"
 #: templates/faq.html:99
 msgid "delete any questions and answers and perform other moderation tasks"
 msgstr ""
-"borrar cualquier pregunta o respuesta y realizar otras tareas de "
+"borrar cualquier solicitud o respuesta y realizar otras tareas de "
 "administración."
 
 #: templates/faq.html:106
@@ -1294,7 +1294,7 @@ msgstr "más nuevas"
 
 #: templates/index.html:25 templates/questions.html:27
 msgid "hottest questions"
-msgstr "preguntas más calientes"
+msgstr "solicitudes más calientes"
 
 #: templates/index.html:25 templates/questions.html:27
 msgid "hottest"
@@ -1336,7 +1336,7 @@ msgstr "Etiquetas recientes"
 #: templates/index.html:94
 #, python-format
 msgid "see questions tagged '%(tagname)s'"
-msgstr "ver preguntas etiquetadas '%(tagname)s'"
+msgstr "ver solicitudes etiquetadas '%(tagname)s'"
 
 #: templates/index.html:97 templates/index.html.py:121
 msgid "popular tags"
@@ -1356,7 +1356,7 @@ msgstr "todas las distinciones"
 
 #: templates/index.html:116
 msgid "subscribe to last 30 questions by RSS"
-msgstr "suscribirse a las últimas 30 preguntas por RSS"
+msgstr "suscribirse a las últimas 30 solicitudes por RSS"
 
 #: templates/index.html:121
 msgid "Still looking for more? See"
@@ -1364,7 +1364,7 @@ msgstr "¿Aún sigues buscando más? Ver"
 
 #: templates/index.html:121
 msgid "complete list of questions"
-msgstr "lista completa de preguntas"
+msgstr "lista completa de solicitudes"
 
 #: templates/index.html:121
 msgid "or"
@@ -1477,12 +1477,12 @@ msgstr "No me gusta esta entrada (clickear de vuelta para cancelar)"
 
 #: templates/question.html:93
 msgid "mark this question as favorite (click again to cancel)"
-msgstr "marcar esta pregunta como favorita (clickear de vuelta para cancelar)"
+msgstr "marcar esta solicitud como favorita (clickear de vuelta para cancelar)"
 
 #: templates/question.html:99
 msgid "remove favorite mark from this question (click again to restore mark)"
 msgstr ""
-"remover marca de favorito a esta pregunta (clickear de vuelta para volver a "
+"remover marca de favorito a esta solicitud (clickear de vuelta para volver a "
 "marcar)"
 
 #: templates/question.html:124 templates/question.html.py:307
@@ -1536,7 +1536,7 @@ msgid ""
 "The question has been closed for the following reason \"%(question."
 "get_close_reason_display)s\" by"
 msgstr ""
-"La pregunta ha sido cerrada por el siguiente motivo \"%(question."
+"La solicitud ha sido cerrada por el siguiente motivo \"%(question."
 "get_close_reason_display)s\" por"
 
 #: templates/question.html:252
@@ -1550,15 +1550,15 @@ msgstr " Respuestas"
 
 #: templates/question.html:261
 msgid "oldest answers will be shown first"
-msgstr "respuesta más vieja será mostrada primero"
+msgstr "respuestas más viejas serán mostradas primero"
 
 #: templates/question.html:261
 msgid "oldest answers"
-msgstr "pregunta más vieja"
+msgstr "más viejas"
 
 #: templates/question.html:262
 msgid "newest answers will be shown first"
-msgstr "preguntas más nuevas serán mostradas primero"
+msgstr "respuestas más nuevas serán mostradas primero"
 
 #: templates/question.html:262
 msgid "newest answers"
@@ -1586,7 +1586,7 @@ msgstr "Marcar esta respuesta como favorita (clickear de vuelta para deshacer)"
 
 #: templates/question.html:292
 msgid "the author of the question has selected this answer as correct"
-msgstr "El autor de esta pregunta ha seleccionado esta respuesta como correcta"
+msgstr "El autor de esta solicitud ha seleccionado esta respuesta como correcta"
 
 #: templates/question.html:314
 msgid "undelete"
@@ -1610,7 +1610,7 @@ msgstr "Puedes responder anónimamente y luego ingresar"
 
 #: templates/question.html:465
 msgid "Answer the question"
-msgstr "Responde la pregunta"
+msgstr "Responde a la solicitud"
 
 #: templates/question.html:467
 msgid "Notify me daily if there are any new answers."
@@ -1622,7 +1622,7 @@ msgstr "una vez que ingreses podrás suscribirte a cualquier actualización aqu�
 
 #: templates/question.html:481
 msgid "Question tags"
-msgstr "Etiquetas de la pregunta"
+msgstr "Etiquetas de la solicitud"
 
 #: templates/question.html:491
 msgid "question asked"
@@ -1635,7 +1635,7 @@ msgstr "atrás"
 
 #: templates/question.html:494
 msgid "question was seen"
-msgstr "la pregunta fue vista"
+msgstr "la solicitud fue vista"
 
 #: templates/question.html:494
 msgid "times"
@@ -1696,7 +1696,7 @@ msgstr "Encontradas por título"
 
 #: templates/questions.html:23
 msgid "All questions"
-msgstr "Todas las preguntas"
+msgstr "Todas las solicitudes"
 
 #: templates/questions.html:25 templates/unanswered.html:20
 msgid "most recently asked questions"
@@ -1865,7 +1865,7 @@ msgstr "Solicitudes sin respuesta"
 #, python-format
 msgid "have %(num_q)s unanswered questions"
 msgstr ""
-"<div class=\"questions-count\">%(num_q)s</div> preguntas <strong>sin "
+"<div class=\"questions-count\">%(num_q)s</div> solicitudes <strong>sin "
 "respuesta</strong> "
 
 #: templates/unanswered.html:99
